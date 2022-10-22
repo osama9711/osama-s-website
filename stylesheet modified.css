@@ -235,6 +235,130 @@ section {
 
 }
 
+
+
+
+form {
+  padding: 0px 30% 0;
+  width: 100%;
+}
+
+#user {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.username {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+
+#password {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.password {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+
+}
+
+#email {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 32px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+.email {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+
+}
+
+#date {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 44px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.date {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+#time {
+  border-radius: 20px;
+  border-color: red;
+  font-size: 20px;
+  margin-left: 42px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.time {
+  display: block;
+  font-size: 20px;
+  color: rgb(16, 159, 199);
+  padding: auto;
+}
+
+#submet {
+  border-radius: 20px;
+  border-color: rgb(255, 206, 8);
+  font-size: 20px;
+  margin-left: 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.submet {
+  display: block;
+  font-size: 20px;
+  color: rgb(17, 225, 35);
+  padding: auto;
+}
+
+#reset {
+  border-radius: 20px;
+  border-color: rgb(255, 206, 8);
+  font-size: 20px;
+  margin-left: 44px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.reset {
+  display: block;
+  font-size: 20px;
+  color: #ff0000;
+  padding: auto;
+}
+
 .footer {
   background-color: black;
   color: #fff;
