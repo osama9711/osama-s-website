@@ -135,6 +135,10 @@ section {
   transition: 0.7s ease;
 }
 
+#card-pointer {
+  cursor: pointer;
+}
+
 .card:hover {
   background-color: gray;
   transform: scale(1.1);
@@ -216,7 +220,7 @@ section {
 }
 
 #content {
-  background-color: #fff
+  background-color: #fff;
 }
 
 .hh {
